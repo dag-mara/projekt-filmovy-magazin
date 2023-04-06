@@ -1,0 +1,28 @@
+.movie img{
+    float: right;
+    padding: 2rem;
+}
+
+.movie-bar{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie-bar span{
+    margin: .5rem
+}
+
+.movie-bar p {
+    margin: .5rem 0;
+}
+
+.movie h3{
+    margin: 2rem 0 0 0;
+}
+
+.rating{
+    margin-right: 5px;
+}
+.genre{
+    font-style: italic;
+}

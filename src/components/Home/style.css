@@ -1,0 +1,6 @@
+.home-cover{
+    height: 300px;
+    background-image: url(https://cdn.pixabay.com/photo/2014/10/22/18/13/donald-duck-498512_1280.jpg);
+    background-size: cover;
+    background-position: center 80%;
+}
